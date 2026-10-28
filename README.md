@@ -1,4 +1,5 @@
 # baleegh-demo
 this is my first git repo
 <br>
-Author - Baleegh
+Author - Baleeghuddin
+
